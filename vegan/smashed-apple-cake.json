@@ -1,0 +1,23 @@
+{
+	"ingredients":{
+		"flour":150,
+		"sugar":150,
+		"sunflower-margarine":25,
+		"apple":175,
+		"lupine-egg-mix":10,
+		"oat-milk":40,
+		"baking-powder":3
+	},
+  "preparation":[
+    {
+      "pre-heat":{
+        "temperature":190
+      }
+    },{
+      "bake":{
+        "time":25,
+        "temperature":190
+      }
+    }
+  ]
+}

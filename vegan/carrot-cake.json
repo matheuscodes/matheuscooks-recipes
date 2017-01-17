@@ -1,0 +1,23 @@
+{
+	"ingredients":{
+		"carrot":100,
+		"flour":150,
+		"sugar":150,
+		"lupine-egg-mix":10,
+		"oat-milk":40,
+		"sunflower-oil":50,
+		"baking-powder":3
+	},
+  "preparation":[
+    {
+      "pre-heat":{
+        "temperature":180
+      }
+    },{
+      "bake":{
+        "time":25,
+        "temperature":180
+      }
+    }
+  ]
+}

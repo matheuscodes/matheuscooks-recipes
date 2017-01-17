@@ -1,0 +1,17 @@
+{
+	"ingredients":{
+		"wheat-flour":50,
+		"water":15,
+		"vodka":5,
+		"olive-oil":5,
+		"baking-powder":1
+	},
+	"spices":["salt","pepper"],
+  "preparation":[
+    {
+      "fry":{
+        "temperature":200
+      }
+    }
+  ]
+}

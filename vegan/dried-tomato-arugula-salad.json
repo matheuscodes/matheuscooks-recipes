@@ -1,0 +1,10 @@
+{
+	"ingredients":{
+		"cooked-pasta":100,
+		"arugula":30,
+		"dried-tomato":30,
+		"dried-tomato-oil":10,
+		"pine-nut":10
+	},
+  "spices":["salt","pepper"]
+}

@@ -1,0 +1,25 @@
+{
+	"ingredients":{
+		"orange-concentrated-4-1":50,
+		"carrot":100,
+		"almond":100,
+		"flour":100,
+		"sugar":200,
+		"lupine-egg-mix":10,
+		"oat-milk":40,
+		"sunflower-margarine":50,
+		"baking-powder":3
+	},
+  "preparation":[
+    {
+      "pre-heat":{
+        "temperature":180
+      }
+    },{
+      "bake":{
+        "time":30,
+        "temperature":180
+      }
+    }
+  ]
+}

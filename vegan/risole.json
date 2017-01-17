@@ -1,0 +1,12 @@
+{
+	"recipes":{
+    "potato-deepfried-dough":100,
+		"vegan-mozarella":50,
+  },
+	"ingredients":{
+		"corn":50,
+		"onion-spring":15,
+		"garlic":1,
+		"starch":3
+	}
+}

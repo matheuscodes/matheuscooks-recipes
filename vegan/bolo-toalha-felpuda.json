@@ -1,0 +1,30 @@
+{
+	"ingredients":{
+		"flour":175,
+		"sugar":175,
+		"baking-powder":3,
+    "coconut-milk":100,
+		"lupine-egg-mix":10,
+		"oat-milk":40,
+		"sunflower-margarine":10,
+		"coconut-almond-milk":100,
+		"coconut-rasps-fine":50,
+	},
+	"preparation":[
+    {
+      "pre-heat":{
+        "temperature":180
+      }
+    },{
+      "bake":{
+        "time":25,
+        "temperature":180
+      }
+    },{
+      "bake":{
+        "time":5,
+        "temperature":180
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+	"ingredients":{
+		"eggplant":1,
+		"garlic":3,
+		"lemon-juice":15,
+		"sesam-oil":10
+	},
+  "preparation":[
+    {
+      "pre-heat":{
+        "temperature":170
+      }
+    },{
+      "bake":{
+        "time":50,
+        "temperature":170
+      }
+    }
+  ]
+}
