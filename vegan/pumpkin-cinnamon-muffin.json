@@ -1,0 +1,27 @@
+{
+	"ingredients":{
+		"flour":120,
+		"raw-sugar":90,
+		"lupine-egg-mix":10,
+		"oat-milk":40,
+		"cinnamon-powder":1,
+		"nutmeg-powder":0.5,
+		"hokaido-pumpkin-smashed":110,
+		"sunflower-margarine":55,
+		"soy-yogurt":55,
+		"vanilla-sugar":10,
+		"baking-powder":5
+	},
+  "preparation":[
+    {
+      "pre-heat":{
+        "temperature":180
+      }
+    },{
+      "bake":{
+        "time":25,
+        "temperature":180
+      }
+    }
+  ]
+}
