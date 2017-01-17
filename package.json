@@ -1,0 +1,14 @@
+{
+  "name": "matheuscooks-recipes",
+  "version": "1.0.0",
+  "description": "Personal repository of recipes for the project matheuscooks.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuscodes/matheuscooks-recipes.git"
+  },
+  "author": "Matheus Borges Teixeira",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matheuscodes/matheuscooks-recipes/issues"
+  }
+}
