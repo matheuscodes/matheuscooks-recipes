@@ -2,12 +2,12 @@
 	"ingredients":{
 		"flour":175,
 		"sugar":175,
-		"baking-powder":3,
+		"baking-powder":5,
     "coconut-milk":100,
 		"lupine-egg-mix":10,
-		"oat-milk":40,
-		"sunflower-margarine":10,
-		"coconut-almond-milk":100,
+		"oat-milk":50,
+		"sunflower-margarine":15,
+		"coconut-almond-milk":150,
 		"coconut-rasps-fine":50
 	},
 	"preparation":[

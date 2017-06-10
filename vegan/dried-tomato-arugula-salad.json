@@ -1,4 +1,9 @@
 {
+  "titles":{
+    "original":"Salada de macarrão com tomate seco, rúcula e pinóle",
+    "en":"Noodle salad with dried tomatos, arugula and pine nuts",
+    "de":"Nudelsalat mit trocken Tomato, Ruccola und Pinnienkerne"
+  },
 	"ingredients":{
 		"cooked-pasta":100,
 		"arugula":30,

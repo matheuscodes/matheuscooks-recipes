@@ -1,4 +1,9 @@
 {
+  "titles":{
+    "original":"Massa de Pastel",
+    "en":"Pastel Dough",
+    "de":"Pastel Teig"
+  },
 	"ingredients":{
 		"wheat-flour":50,
 		"water":15,
